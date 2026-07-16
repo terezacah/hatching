@@ -8,11 +8,7 @@ Since the original framework is not my work, this repository contains only the p
 The goal of this project was to implement a real-time "pencil sketch" renderer.
 
 ### Initial State 
-The initial project folder already included:
-- a 3D scene with several objects
-- a main camera and a light source
-- UI controls
-- basic forward and unlit rendering shaders
+The original project folder already contained several files, including `application.hpp`, `application.cpp`, and `main.cpp`, providing a basic application structure, as well as forward and unlit rendering shaders. The initial scene included several 3D objects, a main camera, a light source, and UI controls.
 
 <img width="2034" height="1150" alt="image" src="https://github.com/user-attachments/assets/002cbd64-6a94-45a5-9dbe-5cb4f9af4158" />
 
