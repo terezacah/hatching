@@ -2,17 +2,18 @@
 This project was developed as part of a university computer graphics course using an existing C++/OpenGL rendering framework provided by FI MUNI.
 Since the original framework is not my work, this repository contains only the project folder with my imlementation. 
 
----
-
-## Overview
 The goal of this project was to implement a real-time "pencil sketch" renderer.
 
-### Initial State 
+---
+
+## Initial State 
 The original project folder already contained several files, including `application.hpp`, `application.cpp`, and `main.cpp`, providing a basic application structure, as well as forward and unlit rendering shaders. The initial scene included several 3D objects, a main camera, a light source, and UI controls.
 
 <img width="2034" height="1150" alt="image" src="https://github.com/user-attachments/assets/002cbd64-6a94-45a5-9dbe-5cb4f9af4158" />
 
-### My Implementation
+---
+
+## My Implementation
 To produce the final effect, I implemented a multi-pass rendering pipeline including:
 - Preparation of FBOs and textures
 - Implementation of multiple rendering passes
