@@ -1,13 +1,12 @@
 # Pencil Sketch Shader
 The goal of this project was to implement a real-time "pencil sketch" renderer.
 
-This project was developed as part of a university computer graphics course using an existing C++/OpenGL rendering framework provided by FI MUNI.
-Since the original framework is not my work, this repository contains only source files created entirely by me. Original framework files, including those that were extended or modified as part of the project, are intentionally omitted.
+This project was developed as part of a university computer graphics course using an existing C++/OpenGL rendering framework provided by FI MUNI. Due to licensing restrictions of the original framework, the source code is not included in this repository.
 
 ---
 
 ## Initial State 
-The original project folder already contained several files, including `application.hpp`, `application.cpp`, and `main.cpp`, providing a basic application structure, as well as forward and unlit rendering shaders. The initial scene included several 3D objects, a main camera, a light source, and UI controls.
+The original project folder already contained several files, providing a basic application structure. The initial scene included several 3D objects, a main camera, a light source, and UI controls.
 
 ---
 
